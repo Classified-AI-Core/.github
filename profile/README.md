@@ -4,7 +4,7 @@ We build private AI assistants and agent tooling for operators: founders, agenci
 
 **Open source**
 
-- [skill-library](https://github.com/Classified-AI-Core/skill-library): 207 agent skills for Claude Code and Zo Computer, MIT-licensed, screened for credentials and private paths before merge.
+- [skill-library](https://github.com/Classified-AI-Core/skill-library): 200+ agent skills for Claude Code and Zo Computer, MIT-licensed, screened for credentials and private paths before merge.
 
 **Elsewhere**
 
